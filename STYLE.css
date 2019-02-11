@@ -1,0 +1,129 @@
+.nome {
+  font-size: 60px;
+  color: #74b49b;
+  margin: 0 auto 0 auto
+}
+
+.eli {
+  width: 10%;
+  height: 10%;
+  padding-bottom: 30px
+}
+
+.sun {
+  position: absolute;
+  width: 13%;
+  height: 25%;
+  top: 20px;
+  left: 50px;
+}
+
+.bird {
+  width: 5%;
+  height: 10%;
+  position: absolute;
+  right: 210px;
+  top: 100px
+}
+
+.hill {
+  position: absolute;
+  right: 500px;
+  bottom: 200px
+}
+
+.cat {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  right: 500px;
+  width: 4%;
+  height: 8%;
+  left: 696px;
+  top: 65px
+}
+.evi {font-family: 'Charmonman', cursive;
+color: #74b49b; font-size: 60px}
+
+h1 {
+  font-family: 'Charmonman', cursive;
+  color: #005542
+}
+
+ul {
+  text-align: center;
+  list-style: none
+}
+
+h2 {
+  font-size: 1.2em;
+  font-family: 'Imprima', sans-serif;
+  color: #005542
+}
+
+p {
+  margin: 0
+}
+
+hr {
+  border: dotted #f1f864 10px;
+  border-bottom: none;
+  width: 25%;
+  margin: 60px auto;
+}
+
+body {background-color: #fcf9f9;
+  margin-top: 0;
+  text-align: center;
+  font-family: 'Imprima', sans-serif;
+  line-height: 2
+}
+
+a {
+  margin: 10px 20px; text-decoration: none; color: #005542; 
+}
+a:hover {color:white}
+li {width: 70%; margin: auto; }
+
+.intestazione {
+  padding-top: 100px;
+  padding-bottom: 384px;
+  background-color: #fcf9f9;
+}
+
+.benvenuti {
+  background-color: #ccf0c3; margin-bottom: 30px;
+}
+
+.curriculum {width: 50%; margin: 50px auto;
+  background-color: #bee4d2;}
+
+.abilita {width: 50%; margin: auto;
+  background-color:  #bee4d2;
+}
+
+.formazione {width: 50%; margin: auto; border-top: 50px;
+  background-color:  #bee4d2
+}
+
+.piede {
+  padding: 50px;
+  background-color: #f1f864;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
